@@ -1,0 +1,6 @@
+reproduce/
+└── EXP-TEMPLATE/
+    ├── EXPERIMENT.md       ← ID, date, hypothesis, hardware config
+    ├── firmware-version.md ← exact commit hash or version tag
+    ├── expected-results.md ← what numbers should appear if it worked
+    └── run-procedure.md    ← exact steps, serial commands, timing
